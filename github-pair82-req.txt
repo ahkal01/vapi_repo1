@@ -1,0 +1,10 @@
+GROUP-NAME:/repos/{ownerId}/{repoId}/pulls/{number}/commits
+PAIR-NAME:pair-88 GET /repos/{ownerId}/{repoId}/pulls/{number}/commits
+GET /repos/{ownerId}/{repoId}/pulls/{number}/commits 
+X-GitHub-Media-Type: {X-GitHub-Media-Type}
+Accept: {Accept}
+X-RateLimit-Limit: {X-RateLimit-Limit}
+X-RateLimit-Remaining: {X-RateLimit-Remaining}
+X-RateLimit-Reset: {X-RateLimit-Reset}
+X-GitHub-Request-Id: {X-GitHub-Request-Id}
+
