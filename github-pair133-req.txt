@@ -1,0 +1,10 @@
+GROUP-NAME:/repos/{ownerId}/{repoId}/pulls/comments/{number}
+PAIR-NAME:pair-104 PATCH /repos/{ownerId}/{repoId}/pulls/comments/{number}
+PATCH /repos/{ownerId}/{repoId}/pulls/comments/{number} 
+X-GitHub-Media-Type: {X-GitHub-Media-Type}
+Accept: {Accept}
+X-RateLimit-Limit: {X-RateLimit-Limit}
+X-RateLimit-Remaining: {X-RateLimit-Remaining}
+X-RateLimit-Reset: {X-RateLimit-Reset}
+X-GitHub-Request-Id: {X-GitHub-Request-Id}
+
