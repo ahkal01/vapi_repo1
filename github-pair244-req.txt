@@ -1,0 +1,10 @@
+GROUP-NAME:/repos/{ownerId}/{repoId}/issues/{number}/labels/{name}
+PAIR-NAME:pair-228 DELETE /repos/{ownerId}/{repoId}/issues/{number}/labels/{name}
+DELETE /repos/{ownerId}/{repoId}/issues/{number}/labels/{name} 
+X-GitHub-Media-Type: {X-GitHub-Media-Type}
+Accept: {Accept}
+X-RateLimit-Limit: {X-RateLimit-Limit}
+X-RateLimit-Remaining: {X-RateLimit-Remaining}
+X-RateLimit-Reset: {X-RateLimit-Reset}
+X-GitHub-Request-Id: {X-GitHub-Request-Id}
+
