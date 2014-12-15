@@ -1,0 +1,10 @@
+GROUP-NAME:/repos/{ownerId}/{repoId}/comments/{commentId}
+PAIR-NAME:pair-133 DELETE /repos/{ownerId}/{repoId}/comments/{commentId}
+DELETE /repos/{ownerId}/{repoId}/comments/{commentId} 
+X-GitHub-Media-Type: {X-GitHub-Media-Type}
+Accept: {Accept}
+X-RateLimit-Limit: {X-RateLimit-Limit}
+X-RateLimit-Remaining: {X-RateLimit-Remaining}
+X-RateLimit-Reset: {X-RateLimit-Reset}
+X-GitHub-Request-Id: {X-GitHub-Request-Id}
+
