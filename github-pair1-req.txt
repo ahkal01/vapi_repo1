@@ -1,0 +1,10 @@
+GROUP-NAME:/repos/{ownerId}/{repoId}/pulls/{number}/merge
+PAIR-NAME:pair-92 GET /repos/{ownerId}/{repoId}/pulls/{number}/merge
+GET /repos/{ownerId}/{repoId}/pulls/{number}/merge 
+X-GitHub-Media-Type: {X-GitHub-Media-Type_1}
+Accept: {Accept_1}
+X-RateLimit-Limit: {X-RateLimit-Limit_1}
+X-RateLimit-Remaining: {X-RateLimit-Remaining_1}
+X-RateLimit-Reset: {X-RateLimit-Reset_1}
+X-GitHub-Request-Id: {X-GitHub-Request-Id_1}
+
