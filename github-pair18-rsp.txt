@@ -1,0 +1,7 @@
+405 Method Not Allowed
+
+{
+  "sha": null,
+  "merged": false,
+  "message": "Failure reason"
+}
