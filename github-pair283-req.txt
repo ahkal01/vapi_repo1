@@ -1,0 +1,11 @@
+GROUP-NAME:/markdown/raw
+PAIR-NAME:pair-334 POST /markdown/raw
+POST /markdown/raw 
+X-GitHub-Media-Type: {X-GitHub-Media-Type}
+Accept: {Accept}
+X-RateLimit-Limit: {X-RateLimit-Limit}
+X-RateLimit-Remaining: {X-RateLimit-Remaining}
+X-RateLimit-Reset: {X-RateLimit-Reset}
+X-GitHub-Request-Id: {X-GitHub-Request-Id}
+
+<p>Hello world github/linguist#1 <strong>cool</strong>, and #1!</p>
