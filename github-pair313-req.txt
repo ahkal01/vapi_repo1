@@ -1,0 +1,10 @@
+GROUP-NAME:/search/code
+PAIR-NAME:pair-2 GET /search/code
+GET /search/code?q={q}&order={order;desc;asc} 
+X-GitHub-Media-Type: {X-GitHub-Media-Type}
+Accept: {Accept}
+X-RateLimit-Limit: {X-RateLimit-Limit}
+X-RateLimit-Remaining: {X-RateLimit-Remaining}
+X-RateLimit-Reset: {X-RateLimit-Reset}
+X-GitHub-Request-Id: {X-GitHub-Request-Id}
+
