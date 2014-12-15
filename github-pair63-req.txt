@@ -1,0 +1,10 @@
+GROUP-NAME:/repos/{ownerId}/{repoId}/watchers
+PAIR-NAME:pair-204 GET /repos/{ownerId}/{repoId}/watchers
+GET /repos/{ownerId}/{repoId}/watchers 
+X-GitHub-Media-Type: {X-GitHub-Media-Type}
+Accept: {Accept}
+X-RateLimit-Limit: {X-RateLimit-Limit}
+X-RateLimit-Remaining: {X-RateLimit-Remaining}
+X-RateLimit-Reset: {X-RateLimit-Reset}
+X-GitHub-Request-Id: {X-GitHub-Request-Id}
+
