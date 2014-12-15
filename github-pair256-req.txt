@@ -1,0 +1,10 @@
+GROUP-NAME:/repos/{ownerId}/{repoId}/downloads
+PAIR-NAME:pair-207 GET /repos/{ownerId}/{repoId}/downloads
+GET /repos/{ownerId}/{repoId}/downloads 
+X-GitHub-Media-Type: {X-GitHub-Media-Type}
+Accept: {Accept}
+X-RateLimit-Limit: {X-RateLimit-Limit}
+X-RateLimit-Remaining: {X-RateLimit-Remaining}
+X-RateLimit-Reset: {X-RateLimit-Reset}
+X-GitHub-Request-Id: {X-GitHub-Request-Id}
+
