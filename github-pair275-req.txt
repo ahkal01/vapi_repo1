@@ -1,0 +1,10 @@
+GROUP-NAME:/user/subscriptions/{ownerId}/{repoId}
+PAIR-NAME:pair-319 DELETE /user/subscriptions/{ownerId}/{repoId}
+DELETE /user/subscriptions/{ownerId}/{repoId} 
+X-GitHub-Media-Type: {X-GitHub-Media-Type}
+Accept: {Accept}
+X-RateLimit-Limit: {X-RateLimit-Limit}
+X-RateLimit-Remaining: {X-RateLimit-Remaining}
+X-RateLimit-Reset: {X-RateLimit-Reset}
+X-GitHub-Request-Id: {X-GitHub-Request-Id}
+
