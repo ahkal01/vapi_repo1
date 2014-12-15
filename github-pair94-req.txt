@@ -1,0 +1,10 @@
+GROUP-NAME:/repos/{ownerId}/{repoId}/pulls/{number}/merge
+PAIR-NAME:pair-93 PUT /repos/{ownerId}/{repoId}/pulls/{number}/merge
+PUT /repos/{ownerId}/{repoId}/pulls/{number}/merge 
+X-GitHub-Media-Type: {X-GitHub-Media-Type}
+Accept: {Accept}
+X-RateLimit-Limit: {X-RateLimit-Limit}
+X-RateLimit-Remaining: {X-RateLimit-Remaining}
+X-RateLimit-Reset: {X-RateLimit-Reset}
+X-GitHub-Request-Id: {X-GitHub-Request-Id}
+
