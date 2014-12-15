@@ -1,0 +1,10 @@
+GROUP-NAME:/orgs/{orgId}/public_members/{userId}
+PAIR-NAME:pair-57 PUT /orgs/{orgId}/public_members/{userId}
+PUT /orgs/{orgId}/public_members/{userId} 
+X-GitHub-Media-Type: {X-GitHub-Media-Type}
+Accept: {Accept}
+X-RateLimit-Limit: {X-RateLimit-Limit}
+X-RateLimit-Remaining: {X-RateLimit-Remaining}
+X-RateLimit-Reset: {X-RateLimit-Reset}
+X-GitHub-Request-Id: {X-GitHub-Request-Id}
+
