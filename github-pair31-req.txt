@@ -1,0 +1,10 @@
+GROUP-NAME:/user/following/{userId}
+PAIR-NAME:pair-278 PUT /user/following/{userId}
+PUT /user/following/{userId} 
+X-GitHub-Media-Type: {X-GitHub-Media-Type}
+Accept: {Accept}
+X-RateLimit-Limit: {X-RateLimit-Limit}
+X-RateLimit-Remaining: {X-RateLimit-Remaining}
+X-RateLimit-Reset: {X-RateLimit-Reset}
+X-GitHub-Request-Id: {X-GitHub-Request-Id}
+
