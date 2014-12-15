@@ -1,0 +1,10 @@
+GROUP-NAME:/repos/{ownerId}/{repoId}/merges
+PAIR-NAME:pair-213 POST /repos/{ownerId}/{repoId}/merges
+POST /repos/{ownerId}/{repoId}/merges 
+X-GitHub-Media-Type: {X-GitHub-Media-Type_2}
+Accept: {Accept_2}
+X-RateLimit-Limit: {X-RateLimit-Limit_2}
+X-RateLimit-Remaining: {X-RateLimit-Remaining_2}
+X-RateLimit-Reset: {X-RateLimit-Reset_2}
+X-GitHub-Request-Id: {X-GitHub-Request-Id_2}
+
