@@ -1,0 +1,10 @@
+GROUP-NAME:/teams/{teamsId}/members/{userId}
+PAIR-NAME:pair-68 PUT /teams/{teamsId}/members/{userId}
+PUT /teams/{teamsId}/members/{userId} 
+X-GitHub-Media-Type: {X-GitHub-Media-Type}
+Accept: {Accept}
+X-RateLimit-Limit: {X-RateLimit-Limit}
+X-RateLimit-Remaining: {X-RateLimit-Remaining}
+X-RateLimit-Reset: {X-RateLimit-Reset}
+X-GitHub-Request-Id: {X-GitHub-Request-Id}
+
