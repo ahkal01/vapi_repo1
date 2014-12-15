@@ -1,0 +1,10 @@
+GROUP-NAME:/user/following/{userId}
+PAIR-NAME:pair-279 DELETE /user/following/{userId}
+DELETE /user/following/{userId} 
+X-GitHub-Media-Type: {X-GitHub-Media-Type}
+Accept: {Accept}
+X-RateLimit-Limit: {X-RateLimit-Limit}
+X-RateLimit-Remaining: {X-RateLimit-Remaining}
+X-RateLimit-Reset: {X-RateLimit-Reset}
+X-GitHub-Request-Id: {X-GitHub-Request-Id}
+
