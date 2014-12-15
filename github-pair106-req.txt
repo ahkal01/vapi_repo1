@@ -1,0 +1,10 @@
+GROUP-NAME:/search/users
+PAIR-NAME:pair-11 GET /search/users
+GET /search/users?q={q}&sort={sort;followers;repositories;joined}&order={order;desc;asc} 
+X-GitHub-Media-Type: {X-GitHub-Media-Type}
+Accept: {Accept}
+X-RateLimit-Limit: {X-RateLimit-Limit}
+X-RateLimit-Remaining: {X-RateLimit-Remaining}
+X-RateLimit-Reset: {X-RateLimit-Reset}
+X-GitHub-Request-Id: {X-GitHub-Request-Id}
+
