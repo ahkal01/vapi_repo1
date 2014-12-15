@@ -1,0 +1,10 @@
+GROUP-NAME:/repos/{ownerId}/{repoId}/keys/{keyId}
+PAIR-NAME:pair-114 GET /repos/{ownerId}/{repoId}/keys/{keyId}
+GET /repos/{ownerId}/{repoId}/keys/{keyId} 
+X-GitHub-Media-Type: {X-GitHub-Media-Type}
+Accept: {Accept}
+X-RateLimit-Limit: {X-RateLimit-Limit}
+X-RateLimit-Remaining: {X-RateLimit-Remaining}
+X-RateLimit-Reset: {X-RateLimit-Reset}
+X-GitHub-Request-Id: {X-GitHub-Request-Id}
+
