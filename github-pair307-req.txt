@@ -1,0 +1,10 @@
+GROUP-NAME:/user/issues
+PAIR-NAME:pair-313 GET /user/issues
+GET /user/issues?filter={filter;all;assigned;created;mentioned;subscribed}&state={state;open;closed}&labels={labels}&sort={sort;created;updated;comments}&direction={direction;desc;asc} 
+X-GitHub-Media-Type: {X-GitHub-Media-Type}
+Accept: {Accept}
+X-RateLimit-Limit: {X-RateLimit-Limit}
+X-RateLimit-Remaining: {X-RateLimit-Remaining}
+X-RateLimit-Reset: {X-RateLimit-Reset}
+X-GitHub-Request-Id: {X-GitHub-Request-Id}
+
