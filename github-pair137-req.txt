@@ -1,0 +1,10 @@
+GROUP-NAME:/user/{userId}/events/public
+PAIR-NAME:pair-283 GET /user/{userId}/events/public
+GET /user/{userId}/events/public 
+X-GitHub-Media-Type: {X-GitHub-Media-Type}
+Accept: {Accept}
+X-RateLimit-Limit: {X-RateLimit-Limit}
+X-RateLimit-Remaining: {X-RateLimit-Remaining}
+X-RateLimit-Reset: {X-RateLimit-Reset}
+X-GitHub-Request-Id: {X-GitHub-Request-Id}
+
