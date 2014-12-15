@@ -1,0 +1,10 @@
+GROUP-NAME:/orgs/{orgId}/repos
+PAIR-NAME:pair-50 GET /orgs/{orgId}/repos
+GET /orgs/{orgId}/repos?type={type;all;public;private;forks;sources;member} 
+X-GitHub-Media-Type: {X-GitHub-Media-Type}
+Accept: {Accept}
+X-RateLimit-Limit: {X-RateLimit-Limit}
+X-RateLimit-Remaining: {X-RateLimit-Remaining}
+X-RateLimit-Reset: {X-RateLimit-Reset}
+X-GitHub-Request-Id: {X-GitHub-Request-Id}
+
