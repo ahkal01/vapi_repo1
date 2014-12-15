@@ -1,0 +1,10 @@
+GROUP-NAME:/users/{userId}/orgs
+PAIR-NAME:pair-325 GET /users/{userId}/orgs
+GET /users/{userId}/orgs 
+X-GitHub-Media-Type: {X-GitHub-Media-Type}
+Accept: {Accept}
+X-RateLimit-Limit: {X-RateLimit-Limit}
+X-RateLimit-Remaining: {X-RateLimit-Remaining}
+X-RateLimit-Reset: {X-RateLimit-Reset}
+X-GitHub-Request-Id: {X-GitHub-Request-Id}
+
