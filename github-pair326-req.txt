@@ -1,0 +1,10 @@
+GROUP-NAME:/users/{userId}/following/{targetUserId}
+PAIR-NAME:pair-329 GET /users/{userId}/following/{targetUserId}
+GET /users/{userId}/following/{targetUserId} 
+X-GitHub-Media-Type: {X-GitHub-Media-Type_1}
+Accept: {Accept_1}
+X-RateLimit-Limit: {X-RateLimit-Limit_1}
+X-RateLimit-Remaining: {X-RateLimit-Remaining_1}
+X-RateLimit-Reset: {X-RateLimit-Reset_1}
+X-GitHub-Request-Id: {X-GitHub-Request-Id_1}
+
