@@ -1,0 +1,10 @@
+GROUP-NAME:/repos/{ownerId}/{repoId}/git/refs/{heads}
+PAIR-NAME:pair-245 GET /repos/{ownerId}/{repoId}/git/refs/{heads}
+GET /repos/{ownerId}/{repoId}/git/refs/{heads} 
+X-GitHub-Media-Type: {X-GitHub-Media-Type}
+Accept: {Accept}
+X-RateLimit-Limit: {X-RateLimit-Limit}
+X-RateLimit-Remaining: {X-RateLimit-Remaining}
+X-RateLimit-Reset: {X-RateLimit-Reset}
+X-GitHub-Request-Id: {X-GitHub-Request-Id}
+
