@@ -1,0 +1,10 @@
+GROUP-NAME:/repos/{ownerId}/{repoId}/issues/{number}/events/{eventId}
+PAIR-NAME:pair-223 GET /repos/{ownerId}/{repoId}/issues/{number}/events/{eventId}
+GET /repos/{ownerId}/{repoId}/issues/{number}/events/{eventId} 
+X-GitHub-Media-Type: {X-GitHub-Media-Type}
+Accept: {Accept}
+X-RateLimit-Limit: {X-RateLimit-Limit}
+X-RateLimit-Remaining: {X-RateLimit-Remaining}
+X-RateLimit-Reset: {X-RateLimit-Reset}
+X-GitHub-Request-Id: {X-GitHub-Request-Id}
+
