@@ -1,0 +1,4 @@
+GROUP-NAME:Orders
+PAIR-NAME:List all orders
+GET /orders
+
