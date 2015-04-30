@@ -1,0 +1,14 @@
+200
+
+{
+    "name": "{name}",
+    "address":"Slough",
+    "trade":"12-27-2013",
+    "settle":"12-31-2013",
+    "contact":
+    {
+        "user":"{name}",
+        "phone":"44175324135",
+        "email":"{name}@gmail.com"
+    }
+}
