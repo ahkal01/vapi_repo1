@@ -1,0 +1,5 @@
+GROUP-NAME:Customers
+PAIR-NAME:Get customer details 1
+GET /customer/{name}
+Content-Type:application/json;charset=UTF8
+
