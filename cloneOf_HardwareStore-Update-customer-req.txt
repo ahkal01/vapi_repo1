@@ -1,0 +1,5 @@
+GROUP-NAME:Customers
+PAIR-NAME:Update customer
+PUT /customer
+
+{"name":"Clark","address":"Manchester"}
