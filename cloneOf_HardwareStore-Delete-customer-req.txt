@@ -1,0 +1,4 @@
+GROUP-NAME:Customers
+PAIR-NAME:Delete customer
+DELETE /customer/{name}
+
